@@ -7,21 +7,31 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering refers to the disciplined use of engineering principles to systematically design, develop, test, deploy, and maintain software systems. It employs structured approaches, methodologies, and tools to build software that is efficient, dependable, and capable of scaling to meet user and business needs. By adhering to best practices, it ensures the creation of robust and maintainable software solutions.
 IMPORANCE
+
 1)Facilitates the efficient development of software, ensuring timely delivery and adherence to budgetary constraints.
+
 2)Enhances the overall quality, dependability, and ease of maintenance of software systems.
+
 3)Supports the development of sophisticated systems that align with user requirements and business objectives.
+
 4)Minimizes risks and expenses linked to software malfunctions or defects.
+
 5)Encourages innovation and contributes to the progress of technology.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1968: The Birth of "Software Engineering"
 The term was first introduced at a NATO conference to tackle the "software crisis," a period marked by the growing complexity of software systems and challenges in managing their development.
+
 1970s: Structured Programming and Modular Design
 This era saw the rise of structured programming principles, championed by figures like Edsger Dijkstra, alongside modular design techniques. These advancements aimed to enhance code organization, readability, and maintainability.
+
 1980s: The Rise of Object-Oriented Programming (OOP)
 OOP languages such as C++ and Smalltalk gained prominence, introducing foundational concepts like encapsulation, inheritance, and polymorphism, which revolutionized software design and development.
+
 1990s: Agile and Iterative Development
 The industry shifted from rigid, linear approaches to more flexible, iterative methodologies like Agile. This change emphasized collaboration, customer feedback, and adaptability in software projects.
+
 2000s: DevOps and Continuous Delivery
 The integration of development and operations teams, along with the adoption of automation, gave rise to DevOps and CI/CD practices. These approaches enabled faster, more reliable software delivery and deployment.
 
